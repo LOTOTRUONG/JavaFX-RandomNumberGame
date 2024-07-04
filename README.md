@@ -2,7 +2,6 @@
 Branch: main
 
 ## :orange_book: Description de projet
-Encryptix Internship Program
 
 TASK 1: NUMBER GAME
 1. Generate a random number within a specified range, such as 1 to 100.
